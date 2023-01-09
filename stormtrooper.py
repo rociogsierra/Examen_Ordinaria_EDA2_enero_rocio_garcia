@@ -9,4 +9,5 @@ class stormtrooper():
         return f'nombre: {self.nombre}, rango: {self.rango}'
         print("el stormtrooper se ha creado con éxito")
 
+#1.3 EXPERIMENTACION
 
